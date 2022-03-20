@@ -21,7 +21,6 @@ You can find me on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main
 <img width="4%" align="left" title="Docker" src="assets/Docker.svg">
 <img width="4%" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
 <img width="4%" align="left" title="Allure Report" src="assets/allureReport.svg">
-<img width="4%" align="left" title="Github" src="assets/Github.svg">
 <img width="4%" align="left" title="Jira" src="assets/Jira.svg">
 
 
