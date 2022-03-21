@@ -22,6 +22,9 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 <img width="4%" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
 <img width="4%" align="left" title="Allure Report" src="assets/allureReport.svg">
 <img width="4%" align="left" title="Jira" src="assets/Jira.svg">  
-
+  
 ## &#x1f4c8; GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+## :pushpin: Pinned repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KELONMYOSA&repo=nexign-page-tests)](https://github.com/anuraghazra/github-readme-stats)
