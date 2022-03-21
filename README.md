@@ -2,8 +2,8 @@
 
 # Hi there! <img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main/assets/wave.gif" width="30px">
 
-My name is Vlad Samoilenko. I'm a novice QA automation engineer. I moved into IT, taking up automation of the design of buildings and structures (BIM), by writing Dynamo + Python scripts. 
-Now I'm taking a course at [QA.GURU](https://qa.guru), where they teach us how to develop autotests, build infrastructure, visualize test results, and test management.
+My name is Vlad Samoilenko. I'm a novice QA automation engineer. I moved into IT, taking up automation of the design of buildings and structures (BIM), by writing Dynamo + Python scripts.   
+Now I'm taking a course at [QA.GURU](https://qa.guru), where they teach us how to develop autotests, build infrastructure, visualize test results, and test management.  
 You can find me on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main/assets/Telegram.svg" height="24px" align="center">](https://t.me/KELONMYOSA), or on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main/assets/vk.svg" height="20px" align="center">](https://vk.com/kelonmyosa).
 
 ## 🔧 Technologies & Tools
@@ -21,7 +21,7 @@ You can find me on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main
 <img width="4%" align="left" title="Docker" src="assets/Docker.svg">
 <img width="4%" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
 <img width="4%" align="left" title="Allure Report" src="assets/allureReport.svg">
-<img width="4%" align="left" title="Jira" src="assets/Jira.svg">
+<img width="4%" align="left" title="Jira" src="assets/Jira.svg">  
 
 ## &#x1f4c8; GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
