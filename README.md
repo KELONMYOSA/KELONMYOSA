@@ -12,12 +12,12 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 ## 🔧 Technologies & Tools
 <table border="0">
     <tr>
-        <td height="50">
-            <img align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
-            <img align="left" title="Java" src="assets/Java.svg">
-            <img align="left" title="Selenium" src="assets/Selenium.svg">
-            <img align="left" title="Selenide" src="assets/selenide-logo.svg ">
-            <img align="left" title="Rest-Assured" src="assets/RESTAssured.svg">
+        <td>
+            <img height="50px" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
+            <img height="50px" align="left" title="Java" src="assets/Java.svg">
+            <img height="50px" align="left" title="Selenium" src="assets/Selenium.svg">
+            <img height="50px" align="left" title="Selenide" src="assets/selenide-logo.svg ">
+            <img height="50px" align="left" title="Rest-Assured" src="assets/RESTAssured.svg">
         </td>
         <td rowspan="3" width="60%">
             <img align="right" alt="GIF" src="assets/code.gif">
@@ -25,20 +25,20 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
     </tr>
     <tr>
         <td>
-            <img align="left" title="Appium" src="assets/Appium.svg">
-            <img align="left" title="Browserstack" src="assets/Browserstack.svg">
-            <img align="left" title="Gradle" src="assets/Gradle.svg">
-            <img align="left" title="JUnit5" src="assets/junit5.svg">
-            <img align="left" title="Jenkins" src="assets/Jenkins.svg">        
+            <img height="50px" align="left" title="Appium" src="assets/Appium.svg">
+            <img height="50px" align="left" title="Browserstack" src="assets/Browserstack.svg">
+            <img height="50px" align="left" title="Gradle" src="assets/Gradle.svg">
+            <img height="50px" align="left" title="JUnit5" src="assets/junit5.svg">
+            <img height="50px" align="left" title="Jenkins" src="assets/Jenkins.svg">        
         </td>
     </tr>
     <tr>
         <td>
-            <img align="left" title="Selenoid" src="assets/selenoid.svg">
-            <img align="left" title="Docker" src="assets/Docker.svg">
-            <img align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
-            <img align="left" title="Allure Report" src="assets/allureReport.svg">
-            <img align="left" title="Jira" src="assets/Jira.svg">          
+            <img height="50px" align="left" title="Selenoid" src="assets/selenoid.svg">
+            <img height="50px" align="left" title="Docker" src="assets/Docker.svg">
+            <img height="50px" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
+            <img height="50px" align="left" title="Allure Report" src="assets/allureReport.svg">
+            <img height="50px" align="left" title="Jira" src="assets/Jira.svg">          
         </td>
     </tr>
 </table>
