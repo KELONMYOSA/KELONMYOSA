@@ -10,25 +10,26 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
+<img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
+
 <p  align="left">
 
-<code><img width="4%" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg"></code>
-<code><img width="4%" align="left" title="Java" src="assets/Java.svg"></code>
-<code><img width="4%" align="left" title="Selenium" src="assets/Selenium.svg"></code>
-<code><img width="4%" align="left" title="Selenide" src="assets/selenide-logo.svg "></code>
-<code><img width="4%" align="left" title="Rest-Assured" src="assets/RESTAssured.svg"></code>
+<code><img width="5%" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg"></code>
+<code><img width="5%" align="left" title="Java" src="assets/Java.svg"></code>
+<code><img width="5%" align="left" title="Selenium" src="assets/Selenium.svg"></code>
+<code><img width="5%" align="left" title="Selenide" src="assets/selenide-logo.svg "></code>
+<code><img width="5%" align="left" title="Rest-Assured" src="assets/RESTAssured.svg"></code>
 
-<code><img width="4%" align="left" title="Appium" src="assets/Appium.svg"></code>
-<code><img width="4%" align="left" title="Browserstack" src="assets/Browserstack.svg"></code>
-<code><img width="4%" align="left" title="Gradle" src="assets/Gradle.svg"></code>
-<code><img width="4%" align="left" title="JUnit5" src="assets/junit5.svg"></code>
-<code><img width="4%" align="left" title="Jenkins" src="assets/Jenkins.svg"></code>
+<code><img width="5%" align="left" title="Appium" src="assets/Appium.svg"></code>
+<code><img width="5%" align="left" title="Browserstack" src="assets/Browserstack.svg"></code>
+<code><img width="5%" align="left" title="Gradle" src="assets/Gradle.svg"></code>
+<code><img width="5%" align="left" title="JUnit5" src="assets/junit5.svg"></code>
+<code><img width="5%" align="left" title="Jenkins" src="assets/Jenkins.svg"></code>
 
-<code><img width="4%" align="left" title="Selenoid" src="assets/selenoid.svg"></code>
-<code><img width="4%" align="left" title="Docker" src="assets/Docker.svg"></code>
-<code><img width="4%" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg"></code>
-<code><img width="4%" align="left" title="Allure Report" src="assets/allureReport.svg"></code>
-<code><img width="4%" align="left" title="Jira" src="assets/Jira.svg"></code>
+<code><img width="5%" align="left" title="Selenoid" src="assets/selenoid.svg"></code>
+<code><img width="5%" align="left" title="Docker" src="assets/Docker.svg"></code>
+<code><img width="5%" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg"></code>
+<code><img width="5%" align="left" title="Allure Report" src="assets/allureReport.svg"></code>
+<code><img width="5%" align="left" title="Jira" src="assets/Jira.svg"></code>
 
-<img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
 </p>
