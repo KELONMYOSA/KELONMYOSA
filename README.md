@@ -19,9 +19,9 @@ on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main/assets/vk.svg" 
 <table bordercolor="white" bgcolor="white">
     <tr>
         <td>
-            <img height="50px" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
-            <img height="50px" align="left" title="Java" src="assets/Java.svg">
-            <img height="50px" align="left" title="Selenium" src="assets/Selenium.svg">
+            <img width="8%" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
+            <img width="8%" align="left" title="Java" src="assets/Java.svg">
+            <img width="8%" align="left" title="Selenium" src="assets/Selenium.svg">
         </td>
         <td rowspan="5" width="60%">
             <img align="right" alt="GIF" src="assets/code.gif">
@@ -29,30 +29,30 @@ on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main/assets/vk.svg" 
     </tr>
     <tr>
         <td>
-            <img height="50px" align="left" title="Selenide" src="assets/selenide-logo.svg ">
-            <img height="50px" align="left" title="Rest-Assured" src="assets/RESTAssured.svg">
-            <img height="50px" align="left" title="Appium" src="assets/Appium.svg">
+            <img width="8%" align="left" title="Selenide" src="assets/selenide-logo.svg ">
+            <img width="8%" align="left" title="Rest-Assured" src="assets/RESTAssured.svg">
+            <img width="8%" align="left" title="Appium" src="assets/Appium.svg">
         </td>
     </tr>
     <tr>
         <td>
-            <img height="50px" align="left" title="Browserstack" src="assets/Browserstack.svg">
-            <img height="50px" align="left" title="Gradle" src="assets/Gradle.svg">
-            <img height="50px" align="left" title="JUnit5" src="assets/junit5.svg">              
+            <img width="8%" align="left" title="Browserstack" src="assets/Browserstack.svg">
+            <img width="8%" align="left" title="Gradle" src="assets/Gradle.svg">
+            <img width="8%" align="left" title="JUnit5" src="assets/junit5.svg">              
         </td>
     </tr>
     <tr>
         <td>
-            <img height="50px" align="left" title="Jenkins" src="assets/Jenkins.svg">
-            <img height="50px" align="left" title="Selenoid" src="assets/selenoid.svg">
-            <img height="50px" align="left" title="Docker" src="assets/Docker.svg">
+            <img width="8%" align="left" title="Jenkins" src="assets/Jenkins.svg">
+            <img width="8%" align="left" title="Selenoid" src="assets/selenoid.svg">
+            <img width="8%" align="left" title="Docker" src="assets/Docker.svg">
         </td>
     </tr>
     <tr>
         <td>
-            <img height="50px" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
-            <img height="50px" align="left" title="Allure Report" src="assets/allureReport.svg">
-            <img height="50px" align="left" title="Jira" src="assets/Jira.svg">          
+            <img width="8%" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
+            <img width="8%" align="left" title="Allure Report" src="assets/allureReport.svg">
+            <img width="8%" align="left" title="Jira" src="assets/Jira.svg">          
         </td>
     </tr>
 </table>
