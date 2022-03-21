@@ -18,14 +18,14 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 <img width="6%" align="left" title="Selenium" src="assets/Selenium.svg">
 <img width="6%" align="left" title="Selenide" src="assets/selenide-logo.svg ">
 <img width="6%" align="left" title="Rest-Assured" src="assets/RESTAssured.svg">
-</p>
+</p><br>
 <p  align="left">
 <img width="6%" align="left" title="Appium" src="assets/Appium.svg">
 <img width="6%" align="left" title="Browserstack" src="assets/Browserstack.svg">
 <img width="6%" align="left" title="Gradle" src="assets/Gradle.svg">
 <img width="6%" align="left" title="JUnit5" src="assets/junit5.svg">
 <img width="6%" align="left" title="Jenkins" src="assets/Jenkins.svg">
-</p>
+</p><br>
 <p  align="left">
 <img width="6%" align="left" title="Selenoid" src="assets/selenoid.svg">
 <img width="6%" align="left" title="Docker" src="assets/Docker.svg">
