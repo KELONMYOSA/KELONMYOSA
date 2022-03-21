@@ -10,24 +10,24 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
-<img align="right" alt="GIF" src="assets/code.gif" width="500" height="250" />
+<img align="right" alt="GIF" src="assets/code.gif" width="500" height="300" />
 
 <p  align="left">
-<img width="6%" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
-<img width="6%" align="left" title="Java" src="assets/Java.svg">
-<img width="6%" align="left" title="Selenium" src="assets/Selenium.svg">
-<img width="6%" align="left" title="Selenide" src="assets/selenide-logo.svg ">
-<img width="6%" align="left" title="Rest-Assured" src="assets/RESTAssured.svg">
+<img width="8%" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
+<img width="8%" align="left" title="Java" src="assets/Java.svg">
+<img width="8%" align="left" title="Selenium" src="assets/Selenium.svg">
+<img width="8%" align="left" title="Selenide" src="assets/selenide-logo.svg ">
+<img width="8%" align="left" title="Rest-Assured" src="assets/RESTAssured.svg">
 
-<img width="6%" align="left" title="Appium" src="assets/Appium.svg">
-<img width="6%" align="left" title="Browserstack" src="assets/Browserstack.svg">
-<img width="6%" align="left" title="Gradle" src="assets/Gradle.svg">
-<img width="6%" align="left" title="JUnit5" src="assets/junit5.svg">
-<img width="6%" align="left" title="Jenkins" src="assets/Jenkins.svg">
+<img width="8%" align="left" title="Appium" src="assets/Appium.svg">
+<img width="8%" align="left" title="Browserstack" src="assets/Browserstack.svg">
+<img width="8%" align="left" title="Gradle" src="assets/Gradle.svg">
+<img width="8%" align="left" title="JUnit5" src="assets/junit5.svg">
+<img width="8%" align="left" title="Jenkins" src="assets/Jenkins.svg">
 
-<img width="6%" align="left" title="Selenoid" src="assets/selenoid.svg">
-<img width="6%" align="left" title="Docker" src="assets/Docker.svg">
-<img width="6%" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
-<img width="6%" align="left" title="Allure Report" src="assets/allureReport.svg">
-<img width="6%" align="left" title="Jira" src="assets/Jira.svg">
+<img width="8%" align="left" title="Selenoid" src="assets/selenoid.svg">
+<img width="8%" align="left" title="Docker" src="assets/Docker.svg">
+<img width="8%" align="left" title="Allure TestOps" src="assets/allureTestOPS.svg">
+<img width="8%" align="left" title="Allure Report" src="assets/allureReport.svg">
+<img width="8%" align="left" title="Jira" src="assets/Jira.svg">
 </p>
