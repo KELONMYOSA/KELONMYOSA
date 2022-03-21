@@ -31,4 +31,3 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 <img width="8%" align="left" title="Allure Report" src="assets/allureReport.svg">
 <img width="8%" align="left" title="Jira" src="assets/Jira.svg">
 </p>
-<img align="right" alt="GIF" src="assets/code.gif" width="500" height="300" />
