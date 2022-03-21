@@ -33,5 +33,5 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 </p>
 
 <p align="right">
-![](https://komarev.com/ghpvc/?username=your-github-username&color=003140)
+![](https://komarev.com/ghpvc/?username=KELONMYOSA&color=003140)
 </p>
