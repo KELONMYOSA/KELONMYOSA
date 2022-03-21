@@ -11,7 +11,6 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 
 ## 🔧 Technologies & Tools
 <img align="right" alt="GIF" src="assets/code.gif" width="500" height="300" />
-<img margin-top="20px" align="right" src="https://komarev.com/ghpvc/?username=KELONMYOSA&color=003140">
 
 <p  align="left">
 <img width="8%" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
@@ -32,3 +31,5 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 <img width="8%" align="left" title="Allure Report" src="assets/allureReport.svg">
 <img width="8%" align="left" title="Jira" src="assets/Jira.svg">
 </p>
+
+<img margin-top="20px" align="right" src="https://komarev.com/ghpvc/?username=KELONMYOSA&color=003140">
