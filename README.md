@@ -16,7 +16,7 @@ on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main/assets/vk.svg" 
 
 ## 🔧 Technologies & Tools
 
-<table>
+<table cellpadding="0" cellspacing="0">
     <tr>
         <td>
             <img width="18%" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
