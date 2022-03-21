@@ -33,6 +33,5 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 </p>
 
 <a>
-<br>
-<img align="right" src="https://komarev.com/ghpvc/?username=KELONMYOSA&color=003140">
+<img margin-top="20px" align="right" src="https://komarev.com/ghpvc/?username=KELONMYOSA&color=003140">
 </a>
