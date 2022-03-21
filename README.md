@@ -16,14 +16,14 @@ on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main/assets/vk.svg" 
 
 ## 🔧 Technologies & Tools
 
-<table cellpadding="0" cellspacing="0">
+<table cellpadding=0 cellspacing=0>
     <tr>
         <td>
             <img width="18%" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
             <img width="18%" title="Java" src="assets/Java.svg">
             <img width="18%" title="Selenium" src="assets/Selenium.svg">
         </td>
-        <td rowspan="5" width="60%">
+        <td rowspan="5" width="70%">
             <img align="right" alt="GIF" src="assets/code.gif">
         </td>
     </tr>
