@@ -12,7 +12,7 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 ## 🔧 Technologies & Tools
 <table border="0">
     <tr>
-        <td height="50px">
+        <td height="50">
             <img align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
             <img align="left" title="Java" src="assets/Java.svg">
             <img align="left" title="Selenium" src="assets/Selenium.svg">
