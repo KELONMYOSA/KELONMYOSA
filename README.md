@@ -32,4 +32,4 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 <img width="8%" align="left" title="Jira" src="assets/Jira.svg">
 </p>
 
-<img style=”paddint-top:20px;” align="right" src="https://komarev.com/ghpvc/?username=KELONMYOSA&color=003140">
+<img align="right" src="https://komarev.com/ghpvc/?username=KELONMYOSA&color=003140">
