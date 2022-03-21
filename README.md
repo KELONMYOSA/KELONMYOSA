@@ -23,4 +23,5 @@ You can find me on [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main
 <img width="4%" align="left" title="Allure Report" src="assets/allureReport.svg">
 <img width="4%" align="left" title="Jira" src="assets/Jira.svg">
 
-
+## &#x1f4c8; GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
