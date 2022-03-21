@@ -10,6 +10,8 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
+<img align="right" alt="GIF" src="assets/code.gif" width="500" height="300" />
+
 <p  align="left">
 <img width="8%" align="left" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
 <img width="8%" align="left" title="Java" src="assets/Java.svg">
