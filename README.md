@@ -1,6 +1,6 @@
 <img align="center" title="Header" alt="KELONMYOSA" src="assets/Header.gif" />
 
-# Hi there! <img src="assets/wave.gif" width="30px">
+# Hi there! <img src="assets/wave.gif" width="5%">
 
 My name is Vlad Samoilenko. I'm a novice QA automation engineer. I moved into IT, taking up automation of the design of
 buildings and structures (BIM), by writing Dynamo + Python scripts.   
