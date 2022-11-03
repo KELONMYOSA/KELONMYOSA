@@ -24,8 +24,9 @@ visualize test results, and test management (2022).
 ## &#x1f4c8; GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&count_private=true&show_icons=true&theme=vue#gh-light-mode-only)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KELONMYOSA&count_private=true&layout=compact&theme=vue#gh-light-mode-only)
-![](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&count_private=true&show_icons=true&theme=gotham#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&count_private=true&show_icons=true&theme=gotham#gh-dark-mode-only)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KELONMYOSA&count_private=true&layout=compact&theme=gotham#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=KELONMYOSA&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 🔧 Technologies & Tools
 
