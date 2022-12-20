@@ -6,7 +6,7 @@
 
 ### :technologist: A little about myself:
 My name is Vlad Samoilenko. I moved into IT, taking up automation of the design of buildings and structures (BIM), 
-by writing Dynamo + Python scripts. I am currently developing plugins for Revit in C# and creating my own project [CheapestWay.ru](https://cheapestway.ru).  
+by writing Dynamo + Python scripts. I am currently developing plugins for Revit in C# and continue to study.  
 
 You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">](https://t.me/KELONMYOSA) or 
 [<img src="https://github.com/KELONMYOSA/KELONMYOSA/blob/main/assets/vk.svg" height="20px" align="center">](https://vk.com/kelonmyosa)
