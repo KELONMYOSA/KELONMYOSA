@@ -14,8 +14,8 @@ You can find me on [<img src="assets/Telegram.svg" height="24px" align="center">
 ### :mortar_board: Education:
 - [Peter the Great St.Petersburg Polytechnic University](https://www.spbstu.ru), department of Civil Engineering,
 Bachelor’s degree in Civil Engineering (2017—2021).
-- [Peter the Great St.Petersburg Polytechnic University](https://www.spbstu.ru), department of Computer Science and Technology,
-Master’s Degree in Computer science (2022—2024). - *Currently studying*
+- [ITMO University - AI Talent Hub](https://ai.itmo.ru/), field of study - Artificial Intelligence,
+Master’s Degree in Computer science (2023—2025). - *Currently studying*
 
 ### :scroll: Qualifications:
 - QA automation courses in [QA.GURU](https://qa.guru), where they taught me how to develop autotests, build infrastructure,
